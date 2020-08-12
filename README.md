@@ -8,5 +8,3 @@ Included technologies:
 - Gunicorn - Python WSGI server
 - NGINX - Web server & reverse proxy
 - SQLAlchemy - Python DB toolkit
-
-Refer to  for the basics.
